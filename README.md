@@ -6,4 +6,4 @@ Contact me on discord (ahsan#4403) for support or any project ideas.
 
 ### Todo:
 -   [ ] Finish artemis reddit app
--   [ ] Finish command-line edulink client
+-   [x] Finish command-line edulink client
