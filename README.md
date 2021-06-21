@@ -33,3 +33,4 @@ I'm Ahsan, a 13 year old who's interested in programming.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahsan-a&&show_icons=true&theme=nord&line_height=27&v=5" />
 
+**Contact me on discord (ahsan#4403)**
