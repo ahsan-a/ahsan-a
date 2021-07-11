@@ -2,6 +2,13 @@
 I'm Ahsan, a 13 year old who's interested in programming. 
 <br /><br />
 
+### **You might be here for this/these:**
+
+- **[not-reddit](https://not-reddit.vercel.app)**: A reddit clone built with Vue and Firebase, transitioning into a full-stack app.
+- **[Phonelink](https://github.com/ahsan-a/PhoneLink)**: The easiest way to connect your iPhone to your Windows computer. Share links, files, send notifications and more.
+
+<br />
+
 ### **My favourite tools/langs**:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -24,10 +31,6 @@ I'm Ahsan, a 13 year old who's interested in programming.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
 
 <br />
-
-### **You might be here for this/these:**
-
-- **Phonelink**: The easiest way to connect your iPhone to your Windows computer. Share links, files, send notifications and more. (https://github.com/ahsan-a/PhoneLink)
 
 
 <!-- **Some stats:**
