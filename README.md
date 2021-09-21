@@ -4,10 +4,11 @@ I'm Ahsan, a 13 year old who's interested in programming.
 
 ## **You might be here for this/these:**
 
-- **[not-reddit](https://not-reddit.vercel.app)**: A reddit clone built with Vue and Firebase, transitioning into a full-stack app.
+- **[not-reddit](https://not-reddit.vercel.app)**: A full stack reddit clone built with vue, express and firebase.
 - **[Phonelink](https://github.com/ahsan-a/PhoneLink)**: The easiest way to connect your iPhone to your Windows computer. Share links, files, send notifications and more.
+- **[Phonelink-rs](https://github.com/ahsan-a/phonelink-rs)**: A faster, better, cross platform phonelink rewrite.
 
-
+<!-- 
 ## **My favourite tools/langs**:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -28,7 +29,7 @@ I'm Ahsan, a 13 year old who's interested in programming.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
-
+ -->
 <br />
 <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsan-a&layout=compact&langs_count=8&theme=nord"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahsan-a&&show_icons=true&theme=nord&line_height=27&v=5" /> -->
