@@ -5,8 +5,8 @@ I'm Ahsan, a 13 year old who's interested in programming.
 ## **You might be here for this/these:**
 
 - **[not-reddit](https://not-reddit.vercel.app)**: A full stack reddit clone built with vue, express and firebase.
-- **[Phonelink](https://github.com/ahsan-a/PhoneLink)**: The easiest way to connect your iPhone to your Windows computer. Share links, files, send notifications and more.
-- **[Phonelink-rs](https://github.com/ahsan-a/phonelink-rs)**: A faster, better, cross platform phonelink rewrite.
+- **[Phonelink-rs](https://github.com/ahsan-a/phonelink-rs)**: The easiest way to connect your iPhone to your computer. Share links, files, send notifications and more. Insanely fast and cross platform.
+- **[Phonelink](https://github.com/ahsan-a/PhoneLink)**: The predecessor to phonelink-rs, but with a gui and windows only.
 
 <!-- 
 ## **My favourite tools/langs**:
