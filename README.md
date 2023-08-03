@@ -1,7 +1,3 @@
-# Hello!
-I'm Ahsan, a 15 year old who's interested in programming. 
-<br />
-
 ## **You might be here for this/these:**
 
 - **[not-reddit](https://not-reddit.vercel.app)**: A full stack reddit clone built with vue, express and firebase.
