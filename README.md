@@ -1,3 +1,5 @@
+15yo egolifter + neek
+
 ## **You might be here for this/these:**
 
 - **[not-reddit](https://not-reddit.vercel.app)**: A full stack reddit clone built with vue, express and firebase.
@@ -30,4 +32,4 @@
 <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsan-a&layout=compact&langs_count=8&theme=nord"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ahsan-a&&show_icons=true&theme=nord&line_height=27&v=5" /> -->
 
-### Add me on discord (ahsan#4403)
+### Discord: ahsan_a
