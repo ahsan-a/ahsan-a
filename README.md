@@ -1,5 +1,3 @@
-15yo egolifter + neek
-
 ## **You might be here for this/these:**
 
 - **[not-reddit](https://not-reddit.vercel.app)**: A full stack reddit clone built with vue, express and firebase.
